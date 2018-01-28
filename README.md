@@ -42,7 +42,7 @@ Open the jupyter notebook using:
 jupyter notebook
 ```
 
-Run the [jupyter notebook tests](Run Length Test.ipynb).
+Run the [jupyter notebook tests]('Run Length Test.ipynb').
 
 Run the stress test inside the test module by running:
 
@@ -79,4 +79,5 @@ This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.t
 ## Acknowledgements
 
 The Cython Team
+
 Steve Byrnes on StackOverflow for help solving the [pyximport numpy library problem](https://stackoverflow.com/questions/14657375/cython-fatal-error-numpy-arrayobject-h-no-such-file-or-directory)
