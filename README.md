@@ -42,7 +42,7 @@ Open the jupyter notebook using:
 jupyter notebook
 ```
 
-Run the [jupyter notebook tests]('Run Length Test.ipynb').
+Run the jupyter notebook tests run_length_test.ipynb.
 
 Run the stress test inside the test module by running:
 
