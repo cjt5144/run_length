@@ -1,3 +1,5 @@
 build/
 src/*.c
 src/.ipynb*
+.DS_Store
+.*
